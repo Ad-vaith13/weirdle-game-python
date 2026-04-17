@@ -40,5 +40,4 @@ python main.py
 
 ## 👤 Author
 
-Advaith Das
-
+Advaith
