@@ -16,4 +16,4 @@ A command-line Wordle-style game built in Python.
 python main.py
 
 ## Author
-Advaith Das
+Advaith
